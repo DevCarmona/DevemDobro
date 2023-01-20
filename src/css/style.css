@@ -7,6 +7,7 @@ body {
     display: flex;
     /* Coloca os elementos nas pontas = espaço entre elas */
     justify-content: space-between;
+    padding: 30px;
 }
 
 .cabecalho .logo {
@@ -18,6 +19,7 @@ body {
     display: flex;
     align-items: center;
     height: 100%;
+    border-radius: 15px;
 }
 
 .cabecalho nav li a {
